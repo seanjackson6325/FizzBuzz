@@ -8,7 +8,7 @@ class FizzBuzz {
         int i = 1;
         while (i < 100) {
 
-            i = doFizzBuzz(i);
+            doFizzBuzz(i);
         }
     }
 
